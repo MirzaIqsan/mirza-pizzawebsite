@@ -76,7 +76,7 @@ function Menu() {
        name: "Focaccia",
        ingredients: "Bread with Italian olive oil and rosemary",
        price: 6,
-       photoName: "/pizzas/focaccia.jpg",
+       photoName: "pizzas/focaccia.jpg",
        soldOut: false,
      },
      {
