@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mirza-pizzawebsite/static/css/main.3ce59e06.css",
-    "main.js": "/mirza-pizzawebsite/static/js/main.aaa91686.js",
+    "main.js": "/mirza-pizzawebsite/static/js/main.ddf1370e.js",
     "index.html": "/mirza-pizzawebsite/index.html",
     "main.3ce59e06.css.map": "/mirza-pizzawebsite/static/css/main.3ce59e06.css.map",
-    "main.aaa91686.js.map": "/mirza-pizzawebsite/static/js/main.aaa91686.js.map"
+    "main.ddf1370e.js.map": "/mirza-pizzawebsite/static/js/main.ddf1370e.js.map"
   },
   "entrypoints": [
     "static/css/main.3ce59e06.css",
-    "static/js/main.aaa91686.js"
+    "static/js/main.ddf1370e.js"
   ]
 }
